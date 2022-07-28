@@ -5,4 +5,4 @@
 - Bản ổn định hiện tại: none
 
 *Bản 0.1.0:
--Thử nghiệm giao diện (alpha test).
+- Thử nghiệm giao diện (alpha test).
