@@ -1,8 +1,11 @@
-# Shirt-Mocup-Maker-LTS
+# Shirt-Mockup-Maker-LTS
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: none
+
+*Bản 0.6.0:
+- Điều chỉnh mỗi trang web có một bộ mockup riêng (beta test).
 
 *Bản 0.5.0:
 - Hoàn thiện sản phẩm (beta test).
