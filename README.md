@@ -4,6 +4,11 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: none
 
+*Bản 1.0.0:
+- Thêm mô tả ngắn cho sản phẩm.
+- Thêm chức năng snippet variable cho mô tả ngắn và mô tả (các giá trị tự động thay thế bằng thông tin của từng sản phẩm).
+- Hướng dẫn sử dụng phần mềm.
+
 *Bản 0.6.0:
 - Điều chỉnh mỗi trang web có một bộ mockup riêng (beta test).
 
