@@ -4,6 +4,10 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: none
 
+*Bản 1.1.1:
+- Sửa tên ảnh tải xuống thành [{title} {sku}.someMIME].
+- Chia thư mục phân loại cho từng ảnh tải xuống.
+
 *Bản 1.0.0:
 - Thêm mô tả ngắn cho sản phẩm.
 - Thêm chức năng snippet variable cho mô tả ngắn và mô tả (các giá trị tự động thay thế bằng thông tin của từng sản phẩm).
