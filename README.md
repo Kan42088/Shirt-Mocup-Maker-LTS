@@ -4,6 +4,10 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.5.4
 
+*Bản 1.5.6:
+- Sửa lỗi: Ảnh tải xuống có chiều dài và chiều rộng ngược nhau.
+- Hiệu chỉnh khung hiển thị.
+
 *Bản 1.5.4:
 - Sửa lỗi: khi thêm sản phẩm variable product không thêm attributes, lỗi json variation.
 - Sửa lỗi: thêm simple product lỗi json.
