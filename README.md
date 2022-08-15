@@ -2,7 +2,7 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
-- Bản ổn định hiện tại: v1.5.4
+- Bản ổn định hiện tại: v1.5.6
 
 *Bản 1.5.6:
 - Sửa lỗi: Ảnh tải xuống có chiều dài và chiều rộng ngược nhau.
