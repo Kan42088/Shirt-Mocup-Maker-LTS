@@ -5,8 +5,8 @@
 - Bản ổn định hiện tại: v1.3.2
 
 *Bản 1.5.4:
-- Sửa lỗi khi thêm sản phẩm variable product không thêm attributes, lỗi json variation.
-- Sửa lỗi thêm simple product lỗi json.
+- Sửa lỗi: khi thêm sản phẩm variable product không thêm attributes, lỗi json variation.
+- Sửa lỗi: thêm simple product lỗi json.
 
 *Bản 1.5.0:
 - Tự động thêm attribute: color, size, style nếu trang web không được cài sẵn các thuộc tính này.
