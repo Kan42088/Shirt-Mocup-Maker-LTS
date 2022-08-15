@@ -4,6 +4,10 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.3.2
 
+*Bản 1.5.4:
+- Sửa lỗi khi thêm sản phẩm variable product không thêm attributes, lỗi json variation.
+- Sửa lỗi thêm simple product lỗi json.
+
 *Bản 1.5.0:
 - Tự động thêm attribute: color, size, style nếu trang web không được cài sẵn các thuộc tính này.
 - Tự động nhận các attribute và thêm các attribute term được cài đặt trước đó để thêm cho các sản phẩm lấy từ trello. Thuộc tính màu sắc có thể tuỳ chọn theo 2 bộ màu đen hoặc trắng (tự động nhận diện đối với từng logo png theo labbel được cài trên trello).
