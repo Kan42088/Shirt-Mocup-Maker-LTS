@@ -4,6 +4,9 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.5.6
 
+*Bản 1.6.0:
+- Ảnh tải xuống bao gồm mockup qua chỉnh sửa kích thước (thư mục Black và White) và file gốc (thư mục Black-raw và White-raw)
+
 *Bản 1.5.6:
 - Sửa lỗi: Ảnh tải xuống có chiều dài và chiều rộng ngược nhau.
 - Hiệu chỉnh khung hiển thị.
