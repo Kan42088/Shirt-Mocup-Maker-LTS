@@ -9,7 +9,7 @@
 - Loại bỏ background image và background color.
 - Ảnh thành phẩm có độ phân giả giữ nguyên từ mockup.
 - Loại bỏ điều chỉnh kích thước ảnh thành phẩm, thêm điều chỉnh kích thước logo tải về.
-- Chia nhỏ số lần tải variation lên một sản phẩm (tránh trường hợp số lượng variation trong một làn lớn hơn giớ hạn 100).
+- Chia nhỏ số lần tải variation lên một sản phẩm (tránh trường hợp số lượng variation trong một làn lớn hơn giới hạn 100).
 
 *Bản 1.6.0:
 - Ảnh tải xuống bao gồm mockup qua chỉnh sửa kích thước (thư mục Black và White) và file gốc (thư mục Black-raw và White-raw).
