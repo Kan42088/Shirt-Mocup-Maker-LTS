@@ -4,11 +4,12 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.6.0
 
-*Bản 1.7.3:
+*Bản 1.7.4:
 - Sửa lỗi các kí tự đặc biệt và chữ tiếng việt bị hiển thị thành kí tự lạ.
 - Loại bỏ background image và background color.
 - Ảnh thành phẩm có độ phân giả giữ nguyên từ mockup.
-- Loại bỏ điều chỉnh kích thước ảnh thành phẩm, thêm điều chỉnh kích thước logo tải về
+- Loại bỏ điều chỉnh kích thước ảnh thành phẩm, thêm điều chỉnh kích thước logo tải về.
+- Chia nhỏ số lần tải variation lên một sản phẩm (tránh trường hợp số lượng variation trong một làn lớn hơn giớ hạn 100).
 
 *Bản 1.6.0:
 - Ảnh tải xuống bao gồm mockup qua chỉnh sửa kích thước (thư mục Black và White) và file gốc (thư mục Black-raw và White-raw).
