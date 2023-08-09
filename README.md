@@ -1,5 +1,6 @@
-# Shirt-Mockup-Maker-LTS
+# Shirt-Mockup-Maker-EOS
 *Note: 
+- TOOL ĐÃ DỪNG HỖ TRỢ CẬP NHẬT, ĐỂ SỬ DỤNG CÁC BẢN ĐƯỢC HỖ TRỢ VUI LÒNG SỬ DỤNG TẠI: https://github.com/QuangTungTB/TwoBros-Tools-System
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại  https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.7.4
